@@ -1,0 +1,11 @@
+{
+    "name": "Hackathon Project Finder",
+    "version": "1.0.0",
+    "description": "Automatically Detect When You Are Looking At a Project That Was Submitted To a Hackathon",
+    "manifest_version": 1,
+    "author": "Toby McDonald",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Project Found"
+    }
+}
